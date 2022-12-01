@@ -1,0 +1,13 @@
+Using Command Line with Git-Bash in python
+pwd command:-Tells the current location of a folder
+ls command:-To view the list of files and folders
+clear command:-To clear the screen
+cd command:-We can change drive using it
+mkdir command:-used to make new directory
+cd command:-used to change directory
+touch command:-used to create file
+rm command:-used to delete files
+rm -rfcommand:-used to remove folders
+mv command:-used to rename a file
+cp command:-used to copy file
+python filename:-used to run code 
