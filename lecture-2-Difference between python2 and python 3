@@ -1,0 +1,8 @@
+Difference Between Python 2 and Python 3
+Python 2 developed by Guido Van Rossum didnt consists of much feature
+due to which python 3 was introduced.
+But Python 3 was not backward compatible
+The libraries availiable in python 3 has to be rewrited in Python 2
+Today python 3 consists of all the libraries from python 2 and also 
+the companies have migrated from python 2 to python 3
+The performance rate of Python 3 is better than Python2
