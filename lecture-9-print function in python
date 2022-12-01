@@ -1,0 +1,15 @@
+print function is used to display code
+string is a collection of character inside double quotes or single quotes.
+We can use double quotes inside single in python
+\"-escape sequence
+\'-single quote
+\''-double quote
+\\-backslash
+\n-new line
+\t-tab
+\b-backspace
+comments-information for user
+"#"symbol is used for comments
+\'-'
+\\-\
+\\\'-\'
